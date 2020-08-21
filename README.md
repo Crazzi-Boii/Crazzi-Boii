@@ -7,13 +7,12 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Native Android
 - 🌱 I’m currently learning about Deploying production level APIs for aap's
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about: Things am good at😅🤣
 - 📫 How to reach me: [Twitter](https://twitter.com/Crazzi_Boii), [Instagram](https://www.instagram.com/crazzi_boii/)
 - 😄 Pronouns: He/His 😌
 <!-- - ⚡ Fun fact: ... 
-
+<!--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
 
 ![Visitor Count](https://profile-counter.glitch.me/Crazzi-Boii/count.svg)
 -->
