@@ -16,3 +16,4 @@ Here are some ideas to get you started:-->
 
 ![Visitor Count](https://profile-counter.glitch.me/Crazzi-Boii/count.svg)
 -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Crazzi-Boii&show_icons=true&hide_border=true)
