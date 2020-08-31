@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-<img align="right" alt="GIF" src="https://github.com/crazzi-boii/crazzi-boii/blob/master/devloper.png?raw=true" width="400" height="200" />
+<img align="right" alt="GIF" src="https://github.com/crazzi-boii/crazzi-boii/blob/master/devloper.png?raw=true" width="300" height="300" />
 
 - 🔭 I’m currently working on Native Android
 - 🌱 I’m currently learning about Deploying production level APIs for aap's
