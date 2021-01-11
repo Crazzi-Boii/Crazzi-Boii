@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 <img align="right" alt="GIF" src="https://github.com/crazzi-boii/crazzi-boii/blob/master/devloper.png?raw=true" width="300" height="300" />
 
-- 🔭 I’m currently working on Native Android
+- 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning about Deploying production level APIs for aap's
 - 💬 Ask me about: Things am good at😅🤣
 - 📫 How to reach me: [Twitter](https://twitter.com/Crazzi_Boii), [Instagram](https://www.instagram.com/crazzi_boii/)
